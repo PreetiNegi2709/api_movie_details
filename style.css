@@ -55,10 +55,16 @@
     flex-direction: column;
   }
   .txtH{
+    padding: 0.5rem;
         font-size: 1.5rem;
         font-weight: 900;
         letter-spacing: 0.2rem;
         color: white;
+}
+.txtB{
+  padding: 0.3;
+  font-size: 0.6rem;
+  letter-spacing: 0.1rem;
 }
 #btn{
     padding: 0.5rem 2rem;
